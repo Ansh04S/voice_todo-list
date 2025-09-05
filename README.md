@@ -68,19 +68,6 @@ python app.py
 * **"Delete task two"**
 
 ---
-
-## 📸 Screenshots
-
-### Dashboard View
-
-![Dashboard Screenshot](docs/dashboard.png)
-
-### Voice Interaction
-
-![Voice Command Screenshot](docs/voice.png)
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -101,8 +88,7 @@ voice-to-do-list/
 * [x] Basic task CRUD with voice commands
 * [x] Dashboard UI
 * [ ] Reminders with notifications
-* [ ] Cloud sync with Google Tasks/Trello
-* [ ] Mobile version
+
 
 ---
 
@@ -121,7 +107,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name](https://github.com/your-username)** 🚀
+Developed by **[Ansh Sureka](https://github.com/your-username)** 🚀
 
 ```
 
