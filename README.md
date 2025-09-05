@@ -107,9 +107,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author
 
-Developed by **[Ansh Sureka](https://github.com/your-username)** 🚀
-
-```
+Developed by **[Ansh Sureka]**
 
 ---
 
